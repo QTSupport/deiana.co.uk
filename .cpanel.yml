@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/admin/public_html/deiana.co.uk/
+    - export DEPLOYPATH=/home/admin/public_html/deiana.co.uk
     - /bin/cp -R images $DEPLOYPATH
